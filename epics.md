@@ -1,4 +1,4 @@
-# Epic: Conference Room Booking System
+# Epic: Room Booking System
 
 ## Epic 1: [Core Booking Management]
 - Story #1: Basic room booking
