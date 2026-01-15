@@ -2,24 +2,35 @@
 
 ## Progress Snapshot
 - Planned points: 24
-- Completed points: 11
-- In progress: 8
-- Not started: 5
+- Completed points: 8
+- In progress: 6
+- Not started: 10
 - Status: At risk
 
+## Completed Work
+- Story #1: Basic Room Booking (5)
+- Story #3: Room Capacity Filtering (3)
+
+## In Progress
+- Story #4: Booking Cancellation (3)
+
+## Not Started
+- Story #5: Room Equipment Requirements (5)
+- Story #9: Booking Conflict Resolution (8)
+
 ## At-Risk Work
-- Story #9: Booking conflict resolution
-- Story #5: Equipment requirement filtering
+- Story #4: Dependent on email configuration
+- Story #9: High technical complexity
 
 ## Decisions Taken
-- Prioritise completing core booking flow over advanced conflict edge cases
-- Defer complex conflict override scenarios if needed
+- Focus on completing core booking and cancellation functionality
+- Defer equipment filtering and conflict resolution to Sprint 2
 
 ## Blockers
 - Resolved:
-  - Email notification setup
+  - UI validation issues
 - Outstanding:
-  - Complex overlapping booking scenarios
+  - Email notification setup
 
 ## Team Health
-Team is focused and productive, but sprint scope is slightly overcommitted, creating manageable pressure.
+Team is focused and productive, with realistic scope adjustments made to maintain quality.

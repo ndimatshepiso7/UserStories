@@ -1,12 +1,13 @@
 # Sprint 1 Daily Standups
 
 ## Day 1
-### Team Member: Developer
+Story in Progress: Story #1
+
 Yesterday:
 - Sprint planning completed
 
 Today:
-- Started Story #1 (booking data model and availability logic)
+- Design booking data model
 
 Blockers:
 - None
@@ -14,13 +15,13 @@ Blockers:
 ---
 
 ## Day 2
+Story in Progress: Story #1
+
 Yesterday:
-- Booking data model designed
-- Availability check logic implemented
+- Booking data model completed
 
 Today:
-- Building booking API endpoint
-- Start basic booking UI
+- Implement room availability check logic
 
 Blockers:
 - None
@@ -28,41 +29,50 @@ Blockers:
 ---
 
 ## Day 3
+Story in Progress: Story #1
+
 Yesterday:
-- Booking API completed
-- Basic UI functional
+- Availability logic implemented
 
 Today:
-- Validation and error handling for booking
-- Begin Story #3 (capacity filtering)
+- Create booking API endpoint
+- Build basic booking UI
+- Add validation and error handling
 
 Blockers:
 - Minor UI alignment issues
 
+End of Day:
+- Acceptance criteria met
+- Story #1 moved to Review / Done
+
 ---
 
 ## Day 4
+Story in Progress: Story #3
+
 Yesterday:
-- Capacity filtering completed
-- Booking flow tested
+- Story #1 completed
 
 Today:
-- Start Story #4 (booking cancellation)
-- Email notification logic
+- Implement room capacity filtering
+- Test capacity-based search results
 
 Blockers:
-- Email service configuration delay
+- None
 
 ---
 
 ## Day 5
+Story in Progress: Story #4
+
 Yesterday:
-- Booking cancellation implemented
-- Cancellation email working
+- Capacity filtering completed
+- Story #3 acceptance criteria met
 
 Today:
-- Start Story #5 (equipment requirements)
-- Prepare conflict detection logic
+- Implement booking cancellation
+- Add cancellation email notification
 
 Blockers:
-- Complexity in overlapping booking logic
+- Email service configuration delay
