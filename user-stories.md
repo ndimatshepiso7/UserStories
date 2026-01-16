@@ -33,7 +33,7 @@ High
  Given the available dates , when i confirm the dates the meeting is gonna be in , Then the booking is successful
 
  ### Story points 
- 
+ 8
  ### Priority 
  Medium 
 
@@ -226,7 +226,7 @@ Given capacity filter applied , when i reset filters , Then all rooms display
 
  ### Technhical notes:
   export to pdf function
-  
+
  ### Design Notes:
  date range picker
 
